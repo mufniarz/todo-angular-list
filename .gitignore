@@ -250,3 +250,9 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/angular-todo-list/Web.Release.config
+/angular-todo-list/Web.Debug.config
+/angular-todo-list/Web.config
+/angular-todo-list/packages.config
+/angular-todo-list/scripts
+/angular-todo-list/ApplicationInsights.config
